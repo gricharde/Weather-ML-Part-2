@@ -18,4 +18,4 @@ The data set is based on weather observations from 18 different weather stations
 The task involved developing three thought experiments using a combination of different ML algorithms to devise a model that ClimateWins could implement to reach its goals. The results were compiled and presented in a final presentation.
 
 ## Final Presentation Slide
-https://1drv.ms/p/c/5c9d535a6ad30869/EYEsnr4oqeNLnAPf05cMRvoBbAY9pPFbTuI5APHvidvblg?e=uTmkeX
+https://1drv.ms/b/c/5c9d535a6ad30869/EWen8gL-v2RJuN31gKd5_FMBVi8XzKNwx4BplOWnERLzbA?e=9QbmZc
